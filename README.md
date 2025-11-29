@@ -12,5 +12,5 @@ O "esqueleto" de operações é definido na classe abstrata `ComponenteOrganizac
 ![Diagrama UML](diagrama_de_classes.jpeg)
 ---
 
-## 👩‍💻 Autor(a)
+## 👩‍💻 Autora
 **Eduarda Araujo Carvalho**
